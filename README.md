@@ -1,6 +1,6 @@
 <div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianSilvaPaz&show_icons=true&theme=transparent)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianSilvaPaz&hide_progress=true)](https://github.com/ChristianSilvaPaz/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChristianSilvaPaz&show_icons=true&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChristianSilvaPaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
  
